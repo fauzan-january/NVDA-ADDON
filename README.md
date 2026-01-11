@@ -10,5 +10,5 @@ Berikut adalah addon NVDA yang bisa anda download:
 Mengedit teks papan klip saat ini dalam editor sederhana sehingga konten yang ditempel menerapkan perubahan. Pintasan: Ctrl+Alt+C membuka editor, Ctrl+Shift+Z memulihkan clipboard sebelumnya.
 
 - ### [GBM Radio Streaming Versi 2.1](https://github.com/fauzan-january/NVDA-ADDON/releases/download/V2.1/GBMRadioStreaming.NVDA-addon)
-Membuka GBM Radio Streaming lewat browser dengan pintasan CTRL + Shift + G.
+addon ini memudahkan anda untuk mendengarkan gbm radio streaming dari browser dengan tombol pintasan NVDA+SHIFT+G. Selamat mendengarkan  radio streaming kami! Salam team Gelegar Bangsa Mandiri (GBM)
 
